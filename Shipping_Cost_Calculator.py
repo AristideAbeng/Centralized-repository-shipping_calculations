@@ -1,5 +1,4 @@
- # Here is a new update by AristideAbeng
- # Here is another update by AristideAbeng
+ # Here is a new update by AristideA
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
